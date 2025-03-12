@@ -1,6 +1,4 @@
-Sure! Below is a sample README file for your Laravel app with instructions for running it in both local and development environments.
 
----
 
 # Laravel News Aggregator API
 
@@ -172,11 +170,3 @@ For development environments using Docker or Homestead, you can access the app b
    ```
 
 - **Mail Configuration**: If you are sending emails (e.g., verification emails), you need to configure your mailer in `.env` and ensure you have a mail driver set up.
-
----
-
-This README should help guide you in setting up and running your Laravel News Aggregator API in both local and development environments.
-
---- 
-
-Feel free to modify it to suit your specific needs or to add additional instructions for your app's features.
